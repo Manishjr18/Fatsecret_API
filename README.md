@@ -73,5 +73,5 @@ This project is open-source and available under the MIT License.
 
 ---
 **Author:** Manish Kumar  
-For queries, reach out via [your_email@example.com](mailto:manishjr2507@gmail.com)
+For queries, reach out via [manishjr2507@gmail.com](mailto:manishjr2507@gmail.com)
 
